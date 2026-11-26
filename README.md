@@ -2,6 +2,15 @@
 
 One repo that holds everything about your company, for you and your AI agents to share.
 
+## Download and try the example
+
+Meet Sunrise Dog Walking, a made-up business. See how one of its prices shows up on its website. You can do this while signed out of GitHub.
+
+1. On this starter's GitHub page, click **Code**, then **Download ZIP**.
+2. Open your Downloads folder. On a Mac, double-click the ZIP file. On Windows, right-click it, choose **Extract All**, then **Extract**. Open the folder that has `README.md` inside.
+3. Open the `company` folder. Open `offerings.md` with a text editor, such as TextEdit or Notepad. Find **Drop-in visit**. It costs **$18**.
+4. Go back to the folder with `README.md`. Open `website` and double-click `index.html` to see the site in your browser. Under **Services and prices**, find that same $18 visit.
+
 ## What it is
 
 Founder OS Starter is a small, ready to use folder structure for running a company with Claude Code. It stores what your company is, what you have decided, and what you have learned, as plain Markdown files. Claude loads the rules in `CLAUDE.md` at the start of every session and reads your company files before it writes anything about your business. Once you have taught it your company, you do not have to explain it again.
@@ -69,10 +78,10 @@ What changes when your company lives in a repo like this:
 
 ## How to get started
 
-You need Claude Code and a GitHub account. To install Claude Code or sign in, follow the official docs at https://code.claude.com/docs.
+To try the AI lessons, install Claude Code and sign in. See the [Claude Code guide](https://code.claude.com/docs).
 
-1. **Get your own copy.** On this repo's GitHub page, click the green "Use this template" button to make your own copy, then clone it. Clone means download a copy that stays linked to GitHub. Not sure how, or no button? Open Claude Code in any folder and type: `Help me get this repo onto my computer and check that git is set up.` [Lesson 1](lessons/01-get-set-up.md) has more help.
-2. **Open the `founder-os-starter` folder in the Claude Code desktop app** and start a new session.
+1. **Get the starter folder.** Follow [Download and try the example](#download-and-try-the-example) above.
+2. **Open the folder that holds `README.md` in the Claude Code desktop app** and start a new session. [Lesson 1](lessons/01-get-set-up.md) explains how to keep your own copy on GitHub.
 3. **Type your first prompt:**
 
    ```

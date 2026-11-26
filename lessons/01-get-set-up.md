@@ -11,19 +11,13 @@ Open this repo in Claude Code and ask it your first questions.
    (Mac and Windows, with Linux in beta), a terminal tool, a web app at claude.ai/code, and
    editor extensions. These lessons use the desktop app.
 
-2. Get a copy of this repo onto your computer. A repo (short for
-   repository) is a folder whose history is tracked by a tool called git.
-   On the repo's GitHub page, click "Use this template" to make your own
-   copy, then clone it. Clone means download a copy that stays linked to
-   GitHub. Not sure how? Open Claude Code in any folder and ask:
+2. Get the starter files. If you already opened the dog-walking site,
+   use that same folder. Otherwise, follow the
+   [download steps in the README](../README.md#download-and-try-the-example).
 
-   ```
-   Help me get this repo onto my computer and check that git is set up.
-   ```
-
-3. Open the `founder-os-starter` folder in the Claude Code desktop app
-   and start a new session. A session is one conversation with Claude
-   inside this folder.
+3. In the Claude Code desktop app, open the folder that holds
+   `README.md` and start a new session. A session is one conversation
+   with Claude inside this folder.
 
 4. Type your first prompt. A prompt is just a message to Claude.
 
@@ -51,6 +45,14 @@ Open this repo in Claude Code and ask it your first questions.
    Markdown is plain text with a few simple marks, like `#` for a heading.
    A `.md` file opens in any text editor. Or just ask Claude:
    `Show me CLAUDE.md`
+
+8. When you want to save your work on GitHub, sign in to your GitHub
+   account. The ZIP gives you the files. To keep a history of your
+   changes in your own private repo, ask Claude:
+
+   ```
+   Help me set up git in this folder and save it to a new private repo on my GitHub account.
+   ```
 
 ## What you learned
 
